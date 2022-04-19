@@ -10,7 +10,7 @@ screen_height = 600
 screen = pygame.display.set_mode((screen_width,screen_height))  
 
 
-pygame.display.set_caption('Drinkin Game')
+pygame.display.set_caption('Pixelated Game')
 
 background_img = pygame.image.load('img/map/BG.png')
 bush_img = pygame.image.load('img/map/Objects/Bush (1).png')
